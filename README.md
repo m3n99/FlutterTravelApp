@@ -1,6 +1,7 @@
 # travelapp
 
 This Project is a simple Travel App that load data from server (PHP) and send data to it (not ready yet).
+This project is 60% done.
 #
 This Project is foucs on some power libraries such as:
  1_ bloc:
